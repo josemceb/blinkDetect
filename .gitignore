@@ -1,1 +1,9 @@
+
+# Mess folder
+/old
+
+# Plots
+/tsPlots
+
+# Jupyter Autosave
 .ipynb_checkpoints
